@@ -1,1 +1,16 @@
-/build/
+# --- COMPILACIÓN Y ENTORNO ---
+# Carpeta de salida de compilación de Maven
+target/
+
+# --- CONFIGURACIONES DE EDITORES / IDEs ---
+# Eclipse / Spring Tool Suite (STS)
+.settings/
+.project
+.classpath
+
+# Visual Studio Code
+.vscode/
+
+# --- ARCHIVOS DEL SISTEMA ---
+.DS_Store
+Thumbs.db
