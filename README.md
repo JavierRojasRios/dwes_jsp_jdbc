@@ -14,3 +14,12 @@ alta y el borrado de socios; la interfaz se genera desde el servlet y no utiliza
    credenciales no son `jdbc:mysql://127.0.0.1:3306/baloncesto`, `user` y `user`.
 
 La aplicación queda disponible en la raíz del contexto desplegado.
+
+## Version v1.0.0
+
+Esta version esta en Scriplet, es decir, .jsp 
+para la facilidad de una programación más sencilla
+
+## Version v2.0.0
+
+Esta última versión hasta la fecha, implementa el servlet, para darle un toque más completo
